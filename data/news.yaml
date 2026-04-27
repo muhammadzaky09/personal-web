@@ -5,3 +5,5 @@ items:
     text: "I will be starting my PhD program in Fall 2026 in Computer Science at University of Central Florida, advised by Prof. Hao Zheng."
   - when: "Oct 2025"
     text: "I joined King Abdullah University of Science and Technology (KAUST) as a Visiting Student in SyntheSys Lab under Prof. Jian Weng."
+    when: "Aug 2025"
+    text: "I finally graduated from Universitas Gadjah Mada as a Bachelor of Science in Computer Science."
