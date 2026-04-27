@@ -24,7 +24,7 @@ params:
     - name: linkedin
       url: "https://www.linkedin.com/in/muhammadzakyf/"
     - name: googlescholar
-      url: "https://scholar.google.com/citations?user=xxxx"
+      url: "https://scholar.google.com/citations?hl=en&user=SSwc2BUAAAAJ&view_op=list_works&authuser=5&gmla=AIqSsVtDIELzejTAybxoXS0qdEAjf_C8_2CwiuYtwphDYZWq8nxXisAltLnYdskwCQXCf9MBsGdEq1jFbBh8Ar5uWVJlMVP2zcXO_uzYHA486emwYXaeiiEj"
 
 menus:
   main:
